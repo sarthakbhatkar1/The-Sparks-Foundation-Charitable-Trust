@@ -15,6 +15,10 @@ party for integrations.
 * Host the website at 000webhost, github.io, heroku app or any
 other free hosting provider. Check in code in gitlab.
 <hr>
-Link to the website - [THE SPARKS FOUNDATION CHARITIBLE TRUST] (https://spleeny-aluminum.000webhostapp.com/index.php)
+Link to the website - [THE SPARKS FOUNDATION CHARITIBLE TRUST] 
+
+  * https://spleeny-aluminum.000webhostapp.com/index.php
+
+  * https://the-sparks-foundation-trust.herokuapp.com/
 
 <hr>
